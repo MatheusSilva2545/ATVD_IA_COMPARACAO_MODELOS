@@ -56,7 +56,7 @@ Exemplos de atributos: teor alcoólico, ácido málico, magnésio, fenóis, flav
  KNN                    ~0.98    ~0.98    ~0.98   
 |Logistic Regression    ~0.96    ~0.96    ~0.97   
 
-(valores aproximados)
+(Os valores são aproximados visto que podem variar ao executar o programa)
 
 # Qual modelo apresentou melhor desempenho no dataset escolhido? 
 O modelo KNN apresentou o melhor desempenho, com acurácia e F1-score em torno de 0.98.
@@ -73,3 +73,4 @@ Testar diferentes técnicas de normalização ou padronização dos dados.
 Avaliar modelos adicionais, como Random Forest ou SVM.
 
 Aumentar o dataset com mais amostras para maior robustez.
+
