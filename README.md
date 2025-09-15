@@ -87,5 +87,21 @@ Avaliar modelos adicionais, como Random Forest ou SVM.
 Aumentar o dataset com mais amostras para maior robustez.
 
 
+# Porque esse Dataset foi escolhido?
+
+O dataset Wine, disponível no UCI Machine Learning Repository (via `sklearn.datasets.load_wine()`), foi escolhido por ser amplamente utilizado em estudos de aprendizado de máquina, especialmente em problemas de classificação supervisionada. Ele atende bem aos critérios da atividade, pois:
+
+- Contém 178 amostras e 13 atributos numéricos, proporcionando um conjunto de dados suficientemente rico para explorar diferentes algoritmos de classificação.
+  
+- Apresenta uma variável alvo multiclasse (3 tipos de vinho), permitindo analisar o desempenho dos modelos em cenários que vão além da classificação binária.
+  
+- Os atributos representam características químicas reais de vinhos (como teor alcoólico, magnésio e fenóis), trazendo maior relevância prática e interpretabilidade dos resultados.
+  
+- É um dataset de tamanho moderado, o que possibilita treinamento rápido dos algoritmos e boa visualização dos resultados.
+  
+- É frequentemente utilizado em benchmarks, o que torna mais fácil comparar os resultados obtidos com estudos já existentes.
+
+Essa escolha garante um equilíbrio entre complexidade e interpretabilidade, permitindo analisar o comportamento dos algoritmos Decision Tree, KNN e Logistic Regression em um problema realista e desafiador.
+
 
 
