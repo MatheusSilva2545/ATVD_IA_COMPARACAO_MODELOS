@@ -16,7 +16,7 @@ Conclusão crítica (análise dos resultados): 2,0
 
 Descrição
 
-Este irá implementar e comparar três algoritmos de classificação supervisionada aplicados ao Wine Dataset (UCI Machine Learning Repository, disponível via `scikit-learn`).
+Este projeto irá implementar e comparar três algoritmos de classificação supervisionada aplicados ao Wine Dataset (UCI Machine Learning Repository, disponível via `scikit-learn`).
 O objetivo é prever a classe do vinho a partir de suas características químicas.
 
 
@@ -85,6 +85,7 @@ Testar diferentes técnicas de normalização ou padronização dos dados.
 Avaliar modelos adicionais, como Random Forest ou SVM.
 
 Aumentar o dataset com mais amostras para maior robustez.
+
 
 
 
