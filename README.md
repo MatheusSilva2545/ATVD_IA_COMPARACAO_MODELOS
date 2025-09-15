@@ -2,11 +2,16 @@
  
  **Critérios**
 
-●	Escolha e justificativa do dataset: 2,0
-●	Pré-processamento adequado dos dados: 1,0
-●	Implementação dos três modelos: 1,0
-●	Avaliação e comparação com métricas/gráficos: 1,0
-●	Conclusão crítica (análise dos resultados): 2,0 
+Escolha e justificativa do dataset: 2,0
+
+Pré-processamento adequado dos dados: 1,0
+
+Implementação dos três modelos: 1,0
+
+Avaliação e comparação com métricas/gráficos: 1,0
+
+Conclusão crítica (análise dos resultados): 2,0 
+
 # Projeto: Classificação com o Dataset Wine
 
 Descrição
@@ -80,5 +85,6 @@ Testar diferentes técnicas de normalização ou padronização dos dados.
 Avaliar modelos adicionais, como Random Forest ou SVM.
 
 Aumentar o dataset com mais amostras para maior robustez.
+
 
 
